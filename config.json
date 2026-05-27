@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedecrypt",
+        "uuid": 2669716,
+        "checksum": "z5hs8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
